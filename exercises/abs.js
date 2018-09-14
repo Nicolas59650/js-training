@@ -9,7 +9,17 @@
  * @notions Functions, Ternary
  */
 
-// Your code :
+// Your code :  function x{
+                    if (x<0>{
+                        (x==-x){
+
+                        }else
+                    }return (x)
+    
+
+
+
+}
 
 //* Begin of tests
 const assert = require('assert')
