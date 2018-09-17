@@ -15,7 +15,7 @@ function isPositive(a) {
     } else {
       return (false);
     }
-  }
+}
   
   console.log(isPositive());
 //* Begin of tests
