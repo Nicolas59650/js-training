@@ -11,7 +11,7 @@
 
 // Your code :  
 function abs (a) {
-    if (a > 0) {
+    if (a >= 0) {
       return a
     } else {
       return -a;
